@@ -83,3 +83,5 @@
 ---
 
 ⭐ *“Automate everything, document well, and let the pipelines do the talking.”*
+⭐ *“DevOps is not tools”*
+⭐ *“DevOps is **eliminating stupidity with automation**”*
