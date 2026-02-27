@@ -3,7 +3,7 @@
 <h3 align="center">DevOps & Platform Engineer | AWS | Terraform | CI/CD | Kubernetes</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;AWS+Cloud+Specialist;CI/CD+Automation+Expert;Terraform+%7C+Docker+%7C+Kubernetes&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Platform+Engineering;AWS+Cloud;CI/CD+Automation+Expert;Terraform+%7C+Docker+%7C+Kubernetes&center=true&width=600&height=45">
 </p>
 
 ---
