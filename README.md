@@ -1,54 +1,47 @@
-
----
-
-## 🚀 VERSION 2: “Modern DevOps / Big-Tech Clean Look”
-
-```md
-<h1 align="center">Hi, I'm Karthik 👋</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Terraform | Kubernetes</h3>
+<h1 align="center">Karthik Raju Kunchala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Cloud+Automation;DevOps+Engineering;Infrastructure+as+Code;CI/CD+Pipelines&center=true&width=500">
+  <i>DevOps Engineer who removes humans from repetitive tasks</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I’m a **DevOps Engineer** focused on building **reliable AWS infrastructure** using modern DevOps practices.
-
-- ☁️ Cloud-first mindset (AWS)
-- ⚙️ Infrastructure as Code (Terraform)
-- 🚢 Containerized deployments (Docker & Kubernetes)
-- 🔁 CI/CD pipelines that don’t break at 2 AM
+### ❌ Things I Hate
+- Clicking buttons in AWS Console  
+- Manual deployments  
+- Pipelines without rollback  
 
 ---
 
-## 🏗️ What I Build
-
-✔️ EKS & ECS production deployments  
-✔️ Secure VPC networking & IAM design  
-✔️ End-to-end CI/CD (GitHub → Jenkins → AWS)  
-✔️ Monitoring & alerting pipelines  
-✔️ Cost-optimized cloud setups  
+### ✅ Things I Love
+- Terraform plans that apply cleanly  
+- Green CI/CD pipelines  
+- Kubernetes autoscaling  
+- Infra that survives outages  
 
 ---
 
-## 🏆 Certifications
+### ⚙️ Stack I Trust With Production
 
-- AWS DevOps Engineer – Professional  
-- AWS Developer – Associate  
-- Terraform Certified  
-- Azure Fundamentals  
-
----
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarthikKunchala23&show_icons=true&theme=github_dark" />
+AWS • Terraform • Docker • Kubernetes  
+Jenkins • GitHub Actions • Ansible  
+CloudWatch • IAM • Security Hub  
 
 ---
 
-## 🤝 Let’s Connect
+### 🧠 Real-World Experience
 
-LinkedIn | Email | GitHub
+- Built CI/CD pipelines used across environments  
+- Deployed containerized apps on ECS & EKS  
+- Designed secure VPCs with private subnets  
+- Automated infra provisioning using Terraform  
+- Integrated alerts directly to Slack  
+
+---
+
+### 🏁 Final Words
+
+> DevOps is not tools.  
+> DevOps is **eliminating stupidity with automation**.
+
+📩 Reach me if you agree.
