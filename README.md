@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-💻 DevOps Engineer with **3+ years of hands-on experience** in designing, automating, and managing **cloud-native infrastructure** on AWS.  
+💻 DevOps Engineer with **4 years of hands-on experience** in designing, automating, and managing **cloud-native infrastructure** on AWS.  
 ⚙️ Passionate about **Infrastructure as Code**, **CI/CD pipelines**, **Platform Engineering**, and **scalable cloud architectures**.  
 ☁️ Strong believer in **automation over manual work** and **security by design**.
 
