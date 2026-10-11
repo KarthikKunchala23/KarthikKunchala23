@@ -43,6 +43,18 @@ I am particularly interested in:
 
 ---
 
+## 🌐 Personal Portfolio
+
+Explore my portfolio to learn more about my cloud engineering experience, projects, and technical skills.
+
+<p align="center">
+  <a href="https://karthikkunchala.cloudlearningtraining.com">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-Live_Website-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
+
+Built with React and deployed on AWS using Amazon S3, CloudFront, Route 53, and Terraform.
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
@@ -168,10 +180,12 @@ OpenTelemetry | Prometheus | Amazon Managed Service for Prometheus | Grafana | C
 🌐 Cloud Networking
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://karthikkunchala.cloudlearningtraining.com">
+    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/karthikkunchala/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
